@@ -11,14 +11,14 @@
 * **Competitive Advantage/Differentiaing Factors:** To differentiate myself from other companies like this I will market this as a community of users. The way you aquire the currency on the site will be dependant on you mining and verifying transactions on the payment network, which as more users start using the platform the more robust the community and network power will become.
 
 # Canvas
-**Key Partners:** Vertcoin foundation for secure payments and accounting, Digital Ocean for server uptime and storing games for the platform. Gamers and GPU's for the community.
-**Key Activities:** Providing a game library of inde games where users can discover new games, new developer projects, and suport the ones they are passionate about. 
-**Key Resources:** Vertcoin mining, the network popularity will increase in due time.
-**Value Proposition:** Creating a "competitive development landscape for gamers to decide what they like and reward creators for their projects.
-**Customer Relationships:** Customers are the most important part of this proposition, as they are the heart of the network.
-**Channels:** Web app for gamers to browse new games and projects they would like to fund.
-**Cost Strucutre:** The costs are relatively small, as the website will cost under $100 / month for uptime, data storage will be relatively cheap too, depending on the game size.
-**Revanue Streams:** Subscription to the bag of games that will be free for a given period of time, royalties paid to the platform to keep the website up and running. App stores like the Apple app store charge 30% in royalties to the company before the developer sees any profits, I would like to reduce this to 5% or less, preferably 1% just to account for overhead costs of keeping the server uptime. 
+* **Key Partners:** Vertcoin foundation for secure payments and accounting, Digital Ocean for server uptime and storing games for the platform. Gamers and GPU's for the community.
+* **Key Activities:** Providing a game library of inde games where users can discover new games, new developer projects, and suport the ones they are passionate about. 
+* **Key Resources:** Vertcoin mining, the network popularity will increase in due time.
+* **Value Proposition:** Creating a "competitive development landscape for gamers to decide what they like and reward creators for their projects.
+* **Customer Relationships:** Customers are the most important part of this proposition, as they are the heart of the network.
+* **Channels:** Web app for gamers to browse new games and projects they would like to fund.
+* **Cost Strucutre:** The costs are relatively small, as the website will cost under $100 / month for uptime, data storage will be relatively cheap too, depending on the game size.
+* **Revanue Streams:** Subscription to the bag of games that will be free for a given period of time, royalties paid to the platform to keep the website up and running. App stores like the Apple app store charge 30% in royalties to the company before the developer sees any profits, I would like to reduce this to 5% or less, preferably 1% just to account for overhead costs of keeping the server uptime. 
 
 
 # Implementation Timeline
