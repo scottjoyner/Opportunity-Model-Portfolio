@@ -23,6 +23,32 @@
 
 # Implementation Timeline
 ### Week 1 
-
-
-# Timeline
+* Customer discovery and Develop a set of user requirements
+* Prioritization of features gamers want.
+* Developing specific measureable development goals.
+* Reach out to indie game developers that would be interested in providing feedback for the product.
+### Week 2
+* Recruit team members to the development team
+* Customer advertisments to start to build hype and potentially funding for the application
+* Complete design materials for website
+* Specific measureable requirements for the inital beta launch of the application
+### Weeks 3 - 6
+* Development of inital MVP prototype
+* Backend design choices and implimenting the game storage solution
+* Front end mockups and intital build out in react js
+* Software testing and inital user testing
+### Weeks 7-8 
+* Onboard users to test under heavier load
+* Reassesment of MVP product and current developemnt progress.
+* Onboard 5 indie game developers to the platform and get their consumer feedback.
+### Weeks 9-10 
+* Advertise the release of the new application, build hype for customers
+* Initial Launch of MVP
+### Weeks 11 - 12
+* Monitoring application health and success metrics
+* Onboard more users and attempt to reach out to more developers
+* Create advertisements on TikTok platform to increase the reach of userbase.
+### Weeks 13+
+* Listen to the community and what they want
+* Design and impliment the next development sprint to continue to build credibility and grow the userbase.
+* Attempt to start monetizing through transaction fees, and provide a clear model that shows users how much they are paying for games and get to see where their money is going, hopefully the pockets of the developers.
